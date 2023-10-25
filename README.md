@@ -42,10 +42,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: 
-  <h1>
-    Languages and Tools:
-  </h1>
+### :fire: <h1>My Status: </h1>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-AndreiNune&theme=dark&background=000000)](https://git.io/streak-stats)
 
