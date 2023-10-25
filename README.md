@@ -14,6 +14,7 @@ https://img.shields.io/badge/LinkedIn-blue
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+https://komarev.com/ghpvc/?username=your-github-username
 
 - 👋 Hi, I’m @AndreiNune
 - 👀 I’m interested in JAVASCRIPT, PYTHON, CSS.
