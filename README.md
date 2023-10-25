@@ -14,10 +14,11 @@ https://img.shields.io/badge/LinkedIn-blue
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-👋 Hi, I’m @AndreiNune
-👀 I’m interested in JAVASCRIPT, PYTHON, CSS.
-🌱 I’m currently learning JAVASCRIPT, PYTHON, CSS, HTML, JAVA, PHP.
-💞️ I’m looking to collaborate on ...
-📫 How to reach me Dre
+
+- 👋 Hi, I’m @AndreiNune
+- 👀 I’m interested in JAVASCRIPT, PYTHON, CSS.
+- 🌱 I’m currently learning JAVASCRIPT, PYTHON, CSS, HTML, JAVA, PHP.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me Dre
 
 
