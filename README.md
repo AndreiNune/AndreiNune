@@ -43,5 +43,5 @@
 
 ### :fire: My Status: 
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=AndreiNune&theme=dark&border_radius=5.1&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=460" alt="GitHub Streak" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiNune&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
