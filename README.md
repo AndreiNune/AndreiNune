@@ -26,7 +26,7 @@
 - 👋 Hi, I’m @AndreiNune
 - 👀 I’m interested in JAVASCRIPT, PYTHON, CSS.
 - 🌱 I’m currently learning JAVASCRIPT, PYTHON, CSS, HTML, JAVA, PHP.
-- 📫 How to reach me Dre
+- 📫 How to reach me Andrei
 
 <h1>
   Languages and Tools:
