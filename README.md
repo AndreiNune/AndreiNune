@@ -24,7 +24,7 @@
 <br>
 
 - 👋 Hi, I’m @AndreiNune
-- 👀 I’m interested in JS, PYTHON, CSS.
+- 👀 I’m interested in JS, PYTHON.
 - 🌱 I’m currently learning JS, PYTHON, JAVA.
 - 📫 You can reach me Andrei
 
